@@ -4,8 +4,8 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/koo04/fnar-go/fnar"
-	wf "github.com/koo04/fnar-go/fnar/workforce"
+	"github.com/AriesPlaysNation/fnar-go/fnar"
+	wf "github.com/AriesPlaysNation/fnar-go/fnar/workforce"
 )
 
 func main() {

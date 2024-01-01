@@ -4,8 +4,8 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/koo04/fnar-go/fnar"
-	"github.com/koo04/fnar-go/fnar/inventory"
+	"github.com/AriesPlaysNation/fnar-go/fnar"
+	"github.com/AriesPlaysNation/fnar-go/fnar/inventory"
 )
 
 func main() {

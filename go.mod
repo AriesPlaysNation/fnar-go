@@ -1,4 +1,4 @@
-module github.com/koo04/fnar-go
+module github.com/AriesPlaysNation/fnar-go
 
 go 1.19
 

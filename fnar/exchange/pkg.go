@@ -8,7 +8,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/koo04/fnar-go/fnar"
+	"github.com/AriesPlaysNation/fnar-go/fnar"
 	"github.com/pkg/errors"
 )
 

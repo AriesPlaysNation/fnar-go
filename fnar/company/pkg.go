@@ -1,8 +1,8 @@
 package company
 
 import (
-	"github.com/koo04/fnar-go/fnar/country"
-	"github.com/koo04/fnar-go/fnar/planet"
+	"github.com/AriesPlaysNation/fnar-go/fnar/country"
+	"github.com/AriesPlaysNation/fnar-go/fnar/planet"
 )
 
 type Company struct {
